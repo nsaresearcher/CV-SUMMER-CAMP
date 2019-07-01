@@ -69,7 +69,7 @@ __Дополнительные задачи__
      воспользовавшись следующей командой:
 
         ```bash
-        $ git clone https://github.com/   <github-account>   /CV-SUMMER-CAMP
+        $ git clone git://github.com/<github-account>/CV-SUMMER-CAMP
         ```
 
   1. Перейти в директорию `CV-SUMMER-CAMP`:
