@@ -106,4 +106,4 @@ __Дополнительные задачи:__
 [opencv_dnn_net]: https://docs.opencv.org/4.1.0/db/d30/classcv_1_1dnn_1_1Net.html#details
 [opencv_examples]: https://docs.opencv.org/4.1.0/examples.html
 [opencv_dnn_classification_sample]: https://docs.opencv.org/4.1.0/d9/d8d/samples_2dnn_2classification_8cpp-example.html
-[addtasks]: src/README_2.md#Задачи
+[addtasks]: docs/README_2.md#Задачи
