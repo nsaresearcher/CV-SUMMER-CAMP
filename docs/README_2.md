@@ -85,6 +85,7 @@ __Дополнительные задачи:__
   1. Создать копию файла `<project_source>/samples/practice2.cpp` и назвать ее `<project_source>/samples/practice2_YOUR_NAME.cpp`. Далее работать с файлом `<project_source>/samples/practice2_YOUR_NAME.cpp`. 
   1. В файле `<project_source>/samples/practice2_YOUR_NAME.cpp` реализовать чтение реализовать чтение файла изображения при помощи имени файла, полученного из аргументов командной строки `--i`. 
   1. В файле `<project_source>/samples/practice2_YOUR_NAME.cpp`создать объект класса `DnnClassificator`. Применить метод `Classify` к изображению:
+  
     - путь к весам модели задается через командную строку посредством ключа `--model_path`;
     - путь к конфигурации модели задается через командную строку посредством ключа `--config_path`;
     - путь к меткам задается через командную строку посредством ключа `--label_path`.
